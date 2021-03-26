@@ -37,6 +37,12 @@ Lambda + API Gateway
 https://amazonxxx.x.xxx.x.xxx/sin?value=3.141592
 
 
+
+### VIDEO 
+
+https://github.com/JuanRomero11/parcialSegundoCorte-AREP/blob/main/images/20210326_155205.mp4
+
+
 Salida. El formato de la salida y la respuesta debe ser un JSON con el siguiente formato
 
 {
